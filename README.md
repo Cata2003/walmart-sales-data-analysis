@@ -15,13 +15,13 @@ Realizar un proceso de limpieza, transformación y análisis exploratorio de dat
 * PostgreSQL
 * SQL
 
-## Dataset
+## Dataset y licencia
 
-El dataset utilizado corresponde a **Walmart Sales Dataset**, obtenido desde Kaggle.
+El dataset original `walmart.xlsx` fue obtenido desde Kaggle y se encuentra bajo la licencia Apache License 2.0.
 
-* Fuente: Kaggle
-* Licencia del dataset: Apache License 2.0
-* Archivo original: `walmart.xlsx`
+La copia completa de la licencia aplicable al dataset se encuentra en `LICENSE-DATASET.txt`.
+
+El análisis, procesamiento, documentación y código desarrollado en este repositorio corresponden al autor del proyecto.
 
 ## Procesamiento realizado
 
