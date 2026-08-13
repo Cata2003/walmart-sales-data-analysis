@@ -33,7 +33,6 @@ Durante el proyecto se realizaron tareas como:
 * Creación de un dataset analítico.
 * Análisis de ventas y ganancias.
 * Análisis por categorías y productos.
-* Análisis geográfico.
 * Generación de archivos procesados para análisis posterior.
 
 ## Archivos principales
@@ -45,5 +44,5 @@ Durante el proyecto se realizaron tareas como:
 
 ## Autor
 
-Axel Alejandro Muñoz Valencia
-Ingeniería Civil en Mecatrónica – Universidad de Talca
+Catalina Bélen Jiménez Lillo
+Ingeniería Civil Industrial – Universidad de Talca
